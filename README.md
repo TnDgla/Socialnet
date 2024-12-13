@@ -90,6 +90,11 @@ This section illustrates the interaction between the frontend (React, Redux Tool
 
 ### **System Architecture**
 This section showcases the high-level architecture of the **SocialNet** app, illustrating the communication between users, the application, and its services.
+![image](https://github.com/user-attachments/assets/282b22ab-bde1-496e-9779-6513eab8f6fa)
+
+
+### **Database Design**
+![image](https://github.com/user-attachments/assets/4a7d6fa6-178e-4dfa-b70b-280d35f2b91e)
 
 ---
 
@@ -125,7 +130,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Reading**: [Multer Documentation](https://www.npmjs.com/package/multer)  
      - **Video**: [Uploading Files with Multer](https://www.youtube.com/watch?v=WqJ0P8JnftI)
   2. Add follow/unfollow functionality.
-     - **Reading**: [MongoDB Relationships](https://mongoosejs.com/docs/populate.html)  
+     - **Reading**: [MongoDB Relationships](https://mongoosejs.com/docs/index.html)  
      - **Video**: [Managing Relationships in MongoDB](https://www.youtube.com/watch?v=WDrU305J1yw)
 
 - **Deliverables**:
@@ -137,10 +142,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks**:
   1. Build post creation and display functionality.
      - **Reading**: [Material-UI Cards](https://mui.com/components/cards/)  
-     - **Video**: [Material-UI for Beginners](https://www.youtube.com/watch?v=3HAARVKWVrk)
+     - **Video**: [Material-UI for Beginners](https://www.youtube.com/watch?v=Xoz31I1FuiY&t=59s)
   2. Implement comments and likes for posts.
      - **Reading**: [Axios Documentation](https://axios-http.com/docs/intro)  
-     - **Video**: [Working with Axios in React](https://www.youtube.com/watch?v=zr5nDW4H5hY)
+     - **Video**: [Working with Axios in React](https://www.youtube.com/watch?v=Gl-vOU7ZU9A&t=6s)
 
 - **Deliverables**:
   - Interactive posts with comments and likes.
@@ -150,8 +155,8 @@ This project is structured to ensure a systematic and incremental development pr
 #### **Week 4: Real-Time Features**
 - **Tasks**:
   1. Setup Socket.io for notifications and chat.
-     - **Reading**: [Socket.io Documentation](https://socket.io/docs/v4/)  
-     - **Video**: [Real-Time Applications with Socket.io](https://www.youtube.com/watch?v=1BfCnjr_Vjg)
+     - **Reading**: [Socket.io Documentation](https://socket.io/docs/v4/tutorial/introduction)  
+     - **Video**: [Real-Time Applications with Socket.io](https://www.youtube.com/watch?v=UUddpbgPEJM&t=567s)
   2. Implement notification updates for interactions (e.g., likes, comments).
 
 - **Deliverables**:
@@ -166,7 +171,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video**: [API Testing with Postman](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
   2. Deploy the frontend and backend to Vercel and Heroku.
      - **Reading**: [Deploying on Heroku](https://devcenter.heroku.com/articles/deploying-nodejs)  
-     - **Video**: [Deploying Full-Stack Apps](https://www.youtube.com/watch?v=DY_OjZ9BzOo)
+     - **Video**: [Deploying Full-Stack Apps](https://www.youtube.com/watch?v=cVEOhgPziO8&t=61s)
 
 - **Deliverables**:
   - Fully deployed application accessible via public URL.
@@ -174,12 +179,20 @@ This project is structured to ensure a systematic and incremental development pr
 ---
 
 #### **Screenshots for Reference**
-- **Login Page**  
-  ![Login Page](https://via.placeholder.com/300)
-- **User Profile**  
-  ![User Profile](https://via.placeholder.com/300)
-- **Post Feed**  
-  ![Post Feed](https://via.placeholder.com/300)
+![Screenshot (177)](https://github.com/user-attachments/assets/9dca4e58-64c2-4944-a985-69ae724958c4)
+![Screenshot (178)](https://github.com/user-attachments/assets/622c4a97-2972-4f2b-97d1-8469053fe50b)
+![Screenshot (179)](https://github.com/user-attachments/assets/26516e40-1d58-4cce-b59f-8052b1f181d8)
+![Screenshot (180)](https://github.com/user-attachments/assets/e227c433-09c6-4412-9e5f-fec9bec19a59)
+![Screenshot (181)](https://github.com/user-attachments/assets/ad5e2424-c15f-4359-97cc-388f7dd3aac1)
+![Screenshot (182)](https://github.com/user-attachments/assets/8de029d1-b12d-4aaa-845e-93197dbb58c6)
+![Screenshot (183)](https://github.com/user-attachments/assets/de5f98f9-0b36-4a28-b156-1415d2b0cf94)
+![Screenshot (184)](https://github.com/user-attachments/assets/cfba79f4-5a4e-49e5-bf8c-6b76b097a8a8)
+![Screenshot (185)](https://github.com/user-attachments/assets/7bacedff-cd2b-469a-8af6-5f1f07c8ff58)
+![Screenshot (186)](https://github.com/user-attachments/assets/f6830d47-4b7b-46ff-afb9-43a543a56486)
+![Screenshot (175)](https://github.com/user-attachments/assets/ac2c8d2f-914c-4708-94ac-c0fceb54c35b)
+![Screenshot (176)](https://github.com/user-attachments/assets/a885aa11-d513-44be-a568-3774cb23e8ee)
+
+
 
 ---
 
@@ -188,3 +201,5 @@ This project is structured to ensure a systematic and incremental development pr
 2. [React Documentation](https://reactjs.org/docs/getting-started.html)
 3. [Material-UI Documentation](https://mui.com/getting-started/installation/)
 4. [MongoDB Documentation](https://www.mongodb.com/docs/manual/)
+5. https://github.com/ZainRk/MERN-SocialMedia-ZAINKEEPSCODE.git
+6. https://www.youtube.com/watch?v=VQCeu2mq8wE&list=PLLLt8Z0S3SGJ0KX7lyYF5LUZN741gMCAP&index=4
