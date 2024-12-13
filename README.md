@@ -123,7 +123,7 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks**:
   1. Implement user profiles (name, bio, profile picture).
      - **Reading**: [Multer Documentation](https://www.npmjs.com/package/multer)  
-     - **Video**: [Uploading Files with Multer](https://www.youtube.com/watch?v=7GlRsF-HYnA)
+     - **Video**: [Uploading Files with Multer](https://www.youtube.com/watch?v=WqJ0P8JnftI)
   2. Add follow/unfollow functionality.
      - **Reading**: [MongoDB Relationships](https://mongoosejs.com/docs/populate.html)  
      - **Video**: [Managing Relationships in MongoDB](https://www.youtube.com/watch?v=WDrU305J1yw)
