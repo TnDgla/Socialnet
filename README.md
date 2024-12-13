@@ -90,7 +90,8 @@ This section illustrates the interaction between the frontend (React, Redux Tool
 
 ### **System Architecture**
 This section showcases the high-level architecture of the **SocialNet** app, illustrating the communication between users, the application, and its services.
-![image](https://github.com/user-attachments/assets/282b22ab-bde1-496e-9779-6513eab8f6fa)
+![image](https://github.com/user-attachments/assets/130b55bc-5ad1-4cc4-8aad-5e66a2fbe884)
+
 
 
 ### **Database Design**
